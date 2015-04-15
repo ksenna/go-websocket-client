@@ -1,3 +1,3 @@
-# CSS Animations
+# Go WebSocket Example - Client
 
-A library of CSS animations
+This application serves as the front end for a Go WebSocket connection.
